@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 __________________________________________________
 
- ### Last Repositoryes
+ ### Last Repositories
  #### >>  https://github.com/Metizikos/metizikos-typescript
 
 

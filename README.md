@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/950759776206340166/981312979150729266/Screenshot_12.png" align="right" width='350'>
+<img src="https://i.pinimg.com/564x/7f/9a/1b/7f9a1b6b14948ec8d48254b2035cd903.jpg" align="right" width='350'> 
 
 ### Hi There, I'm Metizikos :blush:
 <br/>

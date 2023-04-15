@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🗄️ I'm working in [Source Bilisim](https://sourcebilisim.com)
+- 💼 I'm working in [Source Bilisim](https://sourcebilisim.com)
 
 - 🌱 I’m currently learning **Ruby, C++**
 

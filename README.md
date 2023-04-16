@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Ruby, C++**
 
-- 👨‍💻 All of my projects are available at [metizikos.dev](metizikos.dev)
-
 - 📫 Reach me on **team@wizarc.studio**
 
 <br/>

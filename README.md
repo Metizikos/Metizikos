@@ -18,4 +18,8 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metizikos&" alt="metizikos" /></p>
+<a href="https://karakay.me">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=metizikos&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
+

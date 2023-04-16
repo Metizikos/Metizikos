@@ -16,6 +16,16 @@
 
 <br/>
 
+<h4 align="left">Additional Details About Me:</h4>
+
+- 🎓 I'm currently a student at **Altinbas University** 
+
+- 🎵 I'm a Guitar Instructor 
+
+- ❤️ I'm an AKA Classical Guitar Club Member
+
+<br/>
+
 <a href="https://karakay.me">
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=metizikos&count_private=true&show_icons=true&theme=github_dark" />
 </a>

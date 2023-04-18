@@ -18,11 +18,11 @@
 
 <h4 align="left">Additional Details About Me:</h4>
 
-- 🎓 I'm currently a student at **Altinbas University** 
+- 🎓 Student at **Altinbas University** 
 
-- 🎵 I'm a Guitar Instructor 
+- 🎵 A Guitar Instructor 
 
-- ❤️ I'm an AKA Classical Guitar Club Member
+- ❤️ AKA Classical Guitar Club Member
 
 <br/>
 

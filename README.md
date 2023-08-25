@@ -3,8 +3,6 @@
 
 <br/>
 
-- 💼 I'm working in [Source Bilisim](https://sourcebilisim.com)
-
 - 🌱 I’m currently learning **Ruby, C++**
 
 - 📫 Reach me on **team@wizarc.studio**

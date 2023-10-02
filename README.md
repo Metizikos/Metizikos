@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Ruby, C++**
 
-- 📫 Reach me on **team@wizarc.studio**
-
 <br/>
 
 ### Languages and Tools:
@@ -15,8 +13,6 @@
 <br/>
 
 ### Additional Details About Me:
-
-- 🎓 Student at **Altinbas University** 
 
 - 🎵 A Guitar Instructor 
 

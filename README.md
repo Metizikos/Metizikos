@@ -22,10 +22,3 @@
 
 ### Other Social Links:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/449299250426413057)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/metizikoss) 
-
-### GitHub Stats:
-
-<a href="https://metizikos.me   ">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=metizikos&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-
